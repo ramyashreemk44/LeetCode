@@ -26,4 +26,13 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
