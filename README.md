@@ -15,3 +15,15 @@ Most solutions are written in **Java**. You may occasionally find a few in **Pyt
 ## 🔄 Updates
 This repository is updated regularly as I continue solving problems across different topics and difficulty levels.
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
