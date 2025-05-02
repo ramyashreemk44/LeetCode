@@ -1,9 +1,5 @@
-# LeetCode
+# LeetCode Tracker
 A personal collection of my accepted LeetCode submissions, automatically synced to GitHub. Tracking my progress and building consistency in solving DSA problems.
-
-## LeetCode Tracker
-
-This repository contains my accepted solutions to LeetCode problems, auto-synced using the LeetHub extension.
 
 ## 🎯 Purpose
 - Strengthen problem-solving skills through regular practice.
