@@ -32,6 +32,7 @@ This repository is updated regularly as I continue solving problems across diffe
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
