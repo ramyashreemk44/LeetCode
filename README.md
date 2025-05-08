@@ -34,6 +34,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0009-palindrome-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
 | ------- |
@@ -49,4 +50,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
