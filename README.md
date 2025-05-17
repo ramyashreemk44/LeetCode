@@ -28,6 +28,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +83,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramyashreemk44/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,4 +97,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
