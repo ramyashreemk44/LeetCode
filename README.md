@@ -27,6 +27,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -109,6 +110,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
