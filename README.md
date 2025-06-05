@@ -28,6 +28,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0370-range-addition](https://github.com/ramyashreemk44/LeetCode/tree/master/0370-range-addition) |
+| [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -42,6 +43,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -122,4 +124,12 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
