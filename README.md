@@ -34,6 +34,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Hash Table
@@ -65,6 +66,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Counting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0961-long-pressed-name](https://github.com/ramyashreemk44/LeetCode/tree/master/0961-long-pressed-name) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
 |  |
 | ------- |
