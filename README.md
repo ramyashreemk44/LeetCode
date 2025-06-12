@@ -26,6 +26,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0015-3sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -44,6 +45,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0001-two-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -61,6 +63,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ramyashreemk44/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +115,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 ## Two Pointers
