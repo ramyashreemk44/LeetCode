@@ -30,6 +30,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyashreemk44/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0370-range-addition](https://github.com/ramyashreemk44/LeetCode/tree/master/0370-range-addition) |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -106,6 +107,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0033-search-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyashreemk44/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0015-3sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyashreemk44/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0961-long-pressed-name](https://github.com/ramyashreemk44/LeetCode/tree/master/0961-long-pressed-name) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Prefix Sum
