@@ -151,4 +151,20 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
