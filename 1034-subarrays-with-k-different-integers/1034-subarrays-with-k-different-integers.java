@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public int subarraysWithKDistinct(int[] nums, int k) {
         int totalCount = 0,left_far= 0,left_near=0,right = 0;
         HashMap<Integer,Integer> intCount=new HashMap<>();
@@ -20,5 +20,36 @@ class Solution {
             right++;
         }
         return totalCount;
+    }
+}*/
+
+
+class Solution {
+    public int subarraysWithKDistinct(int[] nums, int k) {
+        return atMost(nums, k) - atMost(nums, k - 1);
+    }
+
+    private int atMost(int[] nums, int k) {
+        Map<Integer, Integer> freq = new HashMap<>();
+        int i = 0, count = 0;
+
+        for (int j = 0; j < nums.length; j++) {
+            freq.put(nums[j], freq.getOrDefault(nums[j], 0) + 1);
+            if (freq.get(nums[j]) == 1) {
+                k--;  
+            }
+
+            while (k < 0) {
+                freq.put(nums[i], freq.get(nums[i]) - 1);
+                if (freq.get(nums[i]) == 0) {
+                    k++;
+                }
+                i++;
+            }
+
+            count += j - i + 1;
+        }
+
+        return count;
     }
 }
