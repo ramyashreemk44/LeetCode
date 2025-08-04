@@ -35,6 +35,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -52,6 +53,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Math
@@ -79,6 +81,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -87,6 +90,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Bit Manipulation
 |  |
