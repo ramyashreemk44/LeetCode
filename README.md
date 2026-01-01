@@ -27,6 +27,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0033-search-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/ramyashreemk44/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0136-single-number) |
@@ -63,6 +64,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0009-palindrome-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/ramyashreemk44/LeetCode/tree/master/0066-plus-one) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
