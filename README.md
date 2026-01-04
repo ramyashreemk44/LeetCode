@@ -40,6 +40,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -66,6 +67,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0013-roman-to-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ramyashreemk44/LeetCode/tree/master/0066-plus-one) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## String
 |  |
