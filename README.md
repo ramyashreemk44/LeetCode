@@ -46,6 +46,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
@@ -126,6 +127,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyashreemk44/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -182,4 +184,12 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
