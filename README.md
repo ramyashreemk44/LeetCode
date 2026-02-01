@@ -46,6 +46,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -139,6 +140,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,4 +194,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
