@@ -48,6 +48,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
@@ -104,6 +105,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -142,6 +144,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
 |  |
 | ------- |
