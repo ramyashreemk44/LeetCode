@@ -110,6 +110,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0136-single-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ramyashreemk44/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
