@@ -84,6 +84,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ramyashreemk44/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
 | [0961-long-pressed-name](https://github.com/ramyashreemk44/LeetCode/tree/master/0961-long-pressed-name) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -137,6 +138,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramyashreemk44/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0049-group-anagrams](https://github.com/ramyashreemk44/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/ramyashreemk44/LeetCode/tree/master/0075-sort-colors) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Two Pointers
