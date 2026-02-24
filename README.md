@@ -185,6 +185,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramyashreemk44/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ramyashreemk44/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -214,10 +215,12 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramyashreemk44/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ramyashreemk44/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramyashreemk44/LeetCode/tree/master/0110-balanced-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ramyashreemk44/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Rolling Hash
 |  |
 | ------- |
