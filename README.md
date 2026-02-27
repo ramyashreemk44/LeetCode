@@ -75,6 +75,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
 | ------- |
@@ -92,6 +93,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
 | ------- |
@@ -229,4 +232,12 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ramyashreemk44/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
