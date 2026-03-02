@@ -42,6 +42,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -128,6 +129,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 ## Binary Search
 |  |
@@ -240,4 +242,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->
