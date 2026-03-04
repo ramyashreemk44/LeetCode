@@ -43,6 +43,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -247,6 +248,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Recursion
 |  |
 | ------- |
