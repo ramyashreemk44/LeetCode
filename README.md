@@ -130,6 +130,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ramyashreemk44/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +178,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
 ## Queue
 |  |
