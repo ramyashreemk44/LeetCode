@@ -122,6 +122,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0136-single-number](https://github.com/ramyashreemk44/LeetCode/tree/master/0136-single-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ramyashreemk44/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/ramyashreemk44/LeetCode/tree/master/1009-complement-of-base-10-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ramyashreemk44/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Dynamic Programming
