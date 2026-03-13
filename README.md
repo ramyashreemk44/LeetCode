@@ -49,6 +49,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3637-trionic-array-i) |
@@ -77,6 +78,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
@@ -139,6 +141,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -148,6 +151,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ramyashreemk44/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramyashreemk44/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Divide and Conquer
 |  |
@@ -264,4 +268,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
