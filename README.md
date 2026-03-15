@@ -78,6 +78,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1622-fancy-sequence](https://github.com/ramyashreemk44/LeetCode/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
@@ -221,6 +222,7 @@ This repository is updated regularly as I continue solving problems across diffe
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/ramyashreemk44/LeetCode/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
@@ -277,4 +279,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ramyashreemk44/LeetCode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/ramyashreemk44/LeetCode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->
