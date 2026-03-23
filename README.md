@@ -44,6 +44,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -137,6 +138,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramyashreemk44/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ramyashreemk44/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
@@ -270,6 +272,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ramyashreemk44/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
