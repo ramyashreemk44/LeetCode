@@ -51,6 +51,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ramyashreemk44/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -87,6 +88,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1622-fancy-sequence](https://github.com/ramyashreemk44/LeetCode/tree/master/1622-fancy-sequence) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
@@ -284,6 +286,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ramyashreemk44/LeetCode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
@@ -296,6 +299,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
