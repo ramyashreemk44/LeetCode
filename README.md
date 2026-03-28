@@ -49,6 +49,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -112,6 +113,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Counting
 |  |
@@ -146,6 +148,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/ramyashreemk44/LeetCode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
 |  |
@@ -154,6 +157,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
@@ -273,6 +277,7 @@ This repository is updated regularly as I continue solving problems across diffe
 ## Union-Find
 |  |
 | ------- |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -285,6 +290,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
