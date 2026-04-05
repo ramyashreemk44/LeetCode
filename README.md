@@ -105,6 +105,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0076-minimum-window-substring](https://github.com/ramyashreemk44/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ramyashreemk44/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/ramyashreemk44/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
 | [0961-long-pressed-name](https://github.com/ramyashreemk44/LeetCode/tree/master/0961-long-pressed-name) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -317,6 +318,7 @@ This repository is updated regularly as I continue solving problems across diffe
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/ramyashreemk44/LeetCode/tree/master/0657-robot-return-to-origin) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ramyashreemk44/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
