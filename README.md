@@ -36,6 +36,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0370-range-addition](https://github.com/ramyashreemk44/LeetCode/tree/master/0370-range-addition) |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0874-walking-robot-simulation](https://github.com/ramyashreemk44/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
@@ -75,6 +76,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/ramyashreemk44/LeetCode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0387-first-unique-character-in-a-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ramyashreemk44/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0874-walking-robot-simulation](https://github.com/ramyashreemk44/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ramyashreemk44/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -319,6 +321,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/ramyashreemk44/LeetCode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/ramyashreemk44/LeetCode/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ramyashreemk44/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
