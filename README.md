@@ -65,6 +65,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ramyashreemk44/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -189,6 +190,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ramyashreemk44/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Sorting
 |  |
 | ------- |
@@ -326,6 +328,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2069-walking-robot-simulation-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/ramyashreemk44/LeetCode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
