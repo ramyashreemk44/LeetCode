@@ -126,6 +126,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
+| [2833-furthest-point-from-origin](https://github.com/ramyashreemk44/LeetCode/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -137,6 +138,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1341-split-a-string-in-balanced-strings](https://github.com/ramyashreemk44/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2833-furthest-point-from-origin](https://github.com/ramyashreemk44/LeetCode/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
