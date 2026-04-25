@@ -63,6 +63,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ramyashreemk44/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
@@ -101,6 +102,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1622-fancy-sequence](https://github.com/ramyashreemk44/LeetCode/tree/master/1622-fancy-sequence) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
@@ -190,6 +192,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3454-separate-squares-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3454-separate-squares-ii) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ramyashreemk44/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
@@ -208,6 +211,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ramyashreemk44/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
@@ -355,4 +359,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3474-lexicographically-smallest-generated-string) |
+## Geometry
+|  |
+| ------- |
+| [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 <!---LeetCode Topics End-->
