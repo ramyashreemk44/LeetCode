@@ -72,6 +72,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [3637-trionic-array-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3660-jump-game-ix](https://github.com/ramyashreemk44/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ramyashreemk44/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/ramyashreemk44/LeetCode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ramyashreemk44/LeetCode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/ramyashreemk44/LeetCode/tree/master/3660-jump-game-ix) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/ramyashreemk44/LeetCode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
