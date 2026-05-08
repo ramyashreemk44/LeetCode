@@ -68,6 +68,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3634-minimum-removals-to-balance-array](https://github.com/ramyashreemk44/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3637-trionic-array-i) |
 | [3639-zero-array-transformation-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3639-zero-array-transformation-i) |
@@ -93,6 +94,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2615-sum-of-distances](https://github.com/ramyashreemk44/LeetCode/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/ramyashreemk44/LeetCode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## String
 |  |
@@ -268,6 +271,7 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union Find
 |  |
@@ -372,4 +376,8 @@ This repository is updated regularly as I continue solving problems across diffe
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
