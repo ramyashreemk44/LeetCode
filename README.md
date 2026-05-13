@@ -46,6 +46,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ramyashreemk44/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ramyashreemk44/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ramyashreemk44/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ramyashreemk44/LeetCode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -90,6 +91,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ramyashreemk44/LeetCode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ramyashreemk44/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ramyashreemk44/LeetCode/tree/master/2615-sum-of-distances) |
@@ -238,6 +240,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0370-range-addition](https://github.com/ramyashreemk44/LeetCode/tree/master/0370-range-addition) |
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/ramyashreemk44/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ramyashreemk44/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2615-sum-of-distances](https://github.com/ramyashreemk44/LeetCode/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
