@@ -58,6 +58,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2573-find-the-string-with-lcp](https://github.com/ramyashreemk44/LeetCode/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/ramyashreemk44/LeetCode/tree/master/2615-sum-of-distances) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/ramyashreemk44/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [2784-check-if-array-is-good](https://github.com/ramyashreemk44/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/ramyashreemk44/LeetCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ramyashreemk44/LeetCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -95,6 +96,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ramyashreemk44/LeetCode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ramyashreemk44/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2615-sum-of-distances](https://github.com/ramyashreemk44/LeetCode/tree/master/2615-sum-of-distances) |
+| [2784-check-if-array-is-good](https://github.com/ramyashreemk44/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -220,6 +222,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0748-largest-number-at-least-twice-of-others](https://github.com/ramyashreemk44/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0761-special-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/0761-special-binary-string) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ramyashreemk44/LeetCode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2784-check-if-array-is-good](https://github.com/ramyashreemk44/LeetCode/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/ramyashreemk44/LeetCode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramyashreemk44/LeetCode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ramyashreemk44/LeetCode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
