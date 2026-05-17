@@ -40,6 +40,7 @@ This repository is updated regularly as I continue solving problems across diffe
 | [0966-binary-subarrays-with-sum](https://github.com/ramyashreemk44/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ramyashreemk44/LeetCode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1206-corporate-flight-bookings](https://github.com/ramyashreemk44/LeetCode/tree/master/1206-corporate-flight-bookings) |
+| [1306-jump-game-iii](https://github.com/ramyashreemk44/LeetCode/tree/master/1306-jump-game-iii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ramyashreemk44/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/ramyashreemk44/LeetCode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ramyashreemk44/LeetCode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -272,11 +273,13 @@ This repository is updated regularly as I continue solving problems across diffe
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramyashreemk44/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ramyashreemk44/LeetCode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1306-jump-game-iii](https://github.com/ramyashreemk44/LeetCode/tree/master/1306-jump-game-iii) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/ramyashreemk44/LeetCode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/ramyashreemk44/LeetCode/tree/master/1306-jump-game-iii) |
 | [2121-find-if-path-exists-in-graph](https://github.com/ramyashreemk44/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/ramyashreemk44/LeetCode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/ramyashreemk44/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
